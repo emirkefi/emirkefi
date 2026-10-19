@@ -19,7 +19,7 @@
 
 ---
 
-### 🕹️ // PLAYER SELECT: WHOAMI
+### // PLAYER SELECT: WHOAMI
 
 ```bash
 $ cat /etc/passwd | grep emirkefi
@@ -32,7 +32,7 @@ user@emirkefi:~$ whoami --verbose
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-### ⚡ // POWER-UPS: SYSTEM INFRASTRUCTURE & TECH STACK
+### // POWER-UPS: SYSTEM INFRASTRUCTURE & TECH STACK
 
 ```bash
 $ neofetch --config /etc/cybersec.conf
@@ -47,7 +47,7 @@ $ neofetch --config /etc/cybersec.conf
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-### 🛠️ // LEVEL SELECT: DEPLOYED PAYLOADS & OPEN SOURCE
+### // LEVEL SELECT: DEPLOYED PAYLOADS & OPEN SOURCE
 
 ```bash
 $ ls -la /opt/repositories/featured/
@@ -59,7 +59,7 @@ $ ls -la /opt/repositories/featured/
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-### 🎛️ // BOSS STAGE: AUDIO SUBSYSTEM [ UMBRA ]
+### // BOSS STAGE: AUDIO SUBSYSTEM [ UMBRA ]
 
 <div align="center">
   <img src="./assets/equalizer.svg" width="80%" alt="Animated pixel equalizer" />
@@ -74,7 +74,7 @@ $ ls -la /opt/repositories/featured/
 
 <div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-### 📊 // HIGH SCORES: TELEMETRY & METRICS
+### // HIGH SCORES: TELEMETRY & METRICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emirkefi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0c&text_color=00ff66&icon_color=00f0ff&title_color=ff0055" height="175" alt="GitHub Stats" />
